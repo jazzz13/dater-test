@@ -1,4 +1,7 @@
-
+0. локация с клиентом
+```
+cd ReactNativeClient/
+```
 1. установка зависимостей для ios-окружения
 ```
 pod install --project-directory=./ios
