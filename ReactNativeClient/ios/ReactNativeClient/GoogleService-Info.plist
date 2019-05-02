@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>817497867877-36p0rc621unmik0c575chalaaoj6lkg3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.817497867877-36p0rc621unmik0c575chalaaoj6lkg3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAf0JSMMJ_U32XB6JYM45_OI4Mo30sVm7s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>817497867877</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.ReactNativeClient</string>
+	<key>PROJECT_ID</key>
+	<string>dater-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dater-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:817497867877:ios:feb76f85b7525b3a</string>
+	<key>DATABASE_URL</key>
+	<string>https://dater-test.firebaseio.com</string>
+</dict>
+</plist>
